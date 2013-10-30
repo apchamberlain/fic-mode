@@ -1,3 +1,7 @@
+* This is broken; currently keywords can be established and will be highlighted as intended,
+  but the following "owner string" will never be highlighted.  This
+  is what happens when people get overambition with regexps.  It's not even a particularly complicated one.
+  
 * This is a fork of [[http://www.emacswiki.org/emacs/download/fic-ext-mode.el][fic-ext-mod.el]]
 
 I've decided to rename it back to the canonical fic-mode.el.
